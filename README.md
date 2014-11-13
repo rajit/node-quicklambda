@@ -39,12 +39,8 @@ var fruitTastes = fruits.map(_.extra.taste);
 
 Proxies must be available to use this module.
 
-### Enable Proxies in node 0.10.x
+### Enable Proxies in node
 
 ```shell
 node --harmony-proxies
 ```
-
-### Enable Proxies in node 0.11.x
-
-> TODO
